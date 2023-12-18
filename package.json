@@ -20,6 +20,6 @@
     "radix-vue": "^1.2.4",
     "tailwindcss": "^3.0.23",
     "typescript": "^5.3.3",
-    "vite": "^2.8.4"
+    "vite": "^5.0.10"
   }
 }
